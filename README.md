@@ -52,7 +52,7 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
 
 # Acessando o Servidor FTP
 
-# O script solicitará que você insira um nome de usuário e uma senha para o servidor FTP.
+### O script solicitará que você insira um nome de usuário e uma senha para o servidor FTP.
 
 Após a execução do script, você pode acessar o servidor FTP usando um cliente FTP, como o FileZilla.
 Configurações do Cliente FTP
