@@ -16,8 +16,6 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
 - **Git** (opcional): Para clonar o repositório, se necessário.
 
 ## Estrutura do Projeto
-## Apêndice
-
 "Excolhi a estrutura assim para deixar o Backup bastante "isolado" de onde o usuário pode apagar acidentalmente!"
 ```bash
   /home/seu_usuario/ 
