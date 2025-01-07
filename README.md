@@ -87,6 +87,14 @@ Se você quiser remover o container após parar, use:
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.
 
+## Melhorias
+
+- Ao instalado, ganhe privilegio e execute de forma automática em Background
+- Rodar em uma máquina localhost sem afetar muito o desempenho
+- Implementar melhores práticas de segurança
+- Servir como um "drive" para diferentes tipos de usuarios, "essa melhoria vai levar tempo, falta estrutura para isso -> máquina adequada"
+
+
 ## Autores
 
 - [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
